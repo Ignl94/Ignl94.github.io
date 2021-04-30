@@ -12,3 +12,15 @@ body {
   width: 300px;
   border: 3px solid black;
 }
+
+.project-photo {
+  width: 600px;
+  height: 500px;
+  border: 3px solid black;
+}
+
+.project-p {
+  border: 6px solid pink;
+  margin-top: 2em;
+  width: 14em;
+}
